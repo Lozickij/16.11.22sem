@@ -64,3 +64,4 @@ __![alternative text](picture_name.jpg(or ather))__
 * Чтобы добавить ссылку, необходимо сделать всё то же самое, только в круглых скобках вставить ссылку.
 ![ссылка](https://gb.ru/posts/soveti-pro-git)
 
+Пробую работать на Github.
