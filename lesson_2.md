@@ -48,6 +48,6 @@ __полужирное начертание__.
 
 * __git branch vetka_1__ - создаем новую ветку с именем, например, vetka_1.
 
-![Hi!](noName.jpg) ![ather photo](no_name.jpg) Еще что то
+![Hi!](noName.jpg) ![ather photo](no_name.jpg)
 
 
